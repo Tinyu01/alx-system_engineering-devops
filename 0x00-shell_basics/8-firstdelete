@@ -1,2 +1,2 @@
 #!/bin/bash
-vi /tmp/my_first_directoy/betty
+mkdir /tmp/my_first_directory/betty
